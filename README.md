@@ -6,7 +6,7 @@
 
 <img width="334" alt="Diagram" src="https://user-images.githubusercontent.com/115480692/207221520-fb09dfde-ca0b-4868-800c-b3d774d497a9.png">
 
-#
+# Input
 
 ## Membuat Class
     
@@ -58,12 +58,12 @@
 
 ## Dictonary
 
-data = Mahasiswa([], [], [], [], [])
+    data = Mahasiswa([], [], [], [], [])
 
 ## Menjalankan Program
 
-while True:
-    menu = input("(1)Tambah data, (2)Tampilkan data, (3)Ubah data, (4)Hapus data, (5)Keluar: ")
+    while True:
+        menu = input("(1)Tambah data, (2)Tampilkan data, (3)Ubah data, (4)Hapus data, (5)Keluar: ")
 
     if menu == "1":
         print("\nTAMBAH DATA")
