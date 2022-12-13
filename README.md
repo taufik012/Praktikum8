@@ -125,3 +125,24 @@
         break
     else:
         print("\nPerintah yang dimasukkan salah!\n")
+        
+        
+# Output
+
+## Tambah Data dan Lihat Data
+
+![1](https://user-images.githubusercontent.com/115480692/207231309-a613e068-404e-41e4-ab0d-15c01e94118e.png)
+
+## Ubah Data
+
+![2](https://user-images.githubusercontent.com/115480692/207231477-a1dfdbf0-be91-4569-9b3f-3041733184a4.png)
+
+## Hapus Data
+
+![3](https://user-images.githubusercontent.com/115480692/207231564-e8b2a7db-4d45-431f-af0a-121c1e406e93.png)
+
+## Menghentikan Program
+
+![4](https://user-images.githubusercontent.com/115480692/207231656-ec59e285-1e95-4261-9768-36142780ccc1.png)
+
+
